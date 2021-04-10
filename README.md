@@ -9,8 +9,6 @@ Given an array of integers, return the subarray with the largest product.
 <strong>Largest Number Formed From an Aray</strong>
 Given an array, rearrange the numbers so that it forms the greatest number (returned as a string).
 
-<br>
-
 <strong>Apple Substring List Question</strong>
 Given a string s and a string t, return a list of size k sorted from lowest to highest string length with substrings from s that contain all the characters in t.
 </pre>
