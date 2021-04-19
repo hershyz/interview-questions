@@ -200,4 +200,9 @@
         }
 
         System.out.println(count); //{the=1, she=1, sells=1, shells=1, by=1, shore=1, sea=2}
+        
+        //Iterating through a HashMap:
+        for (Map.Entry<String,String> entry : gfg.entrySet())
+            System.out.println("Key = " + entry.getKey() +
+                             ", Value = " + entry.getValue());
 ```
