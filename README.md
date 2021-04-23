@@ -6,6 +6,7 @@
   <li><a href="https://github.com/hershyz/interview-questions-and-algos/blob/main/notes/sorting%2C%20arraylist%20methods%2C%20binary%20search%2C%20stacks%2C%20and%20hashmaps.md">Sorting, ArrayList Methods, Binary Search, Stacks, and HashMaps</a></li>
   <li><a href="https://github.com/hershyz/interview-questions-and-algos/blob/main/notes/kadane's%20algorithm.md">Kadane's Algorithm</a></li>
   <li><a href="https://github.com/hershyz/interview-questions-and-algos/blob/main/notes/linked%20lists.md">Linked Lists</a></li>
+  <li><a href="https://github.com/hershyz/interview-questions-and-algos/blob/main/notes/queues%20vs%20stacks.md">Queues vs Stacks</a></li>
 </ul>
 
 <h4>Problems</h4>
